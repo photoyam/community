@@ -6,7 +6,7 @@ No account. No upload. No install. Just open a URL and start editing.
 ### 👉 **[Open Photoyam → photoyam.com](https://photoyam.com)**
 ### 💬 **[Join the Discussions](https://github.com/photoyam/community/discussions)** — bugs, ideas, questions, and show-and-tell
 
-![The Photoyam editor in a browser, editing a colorful illustrated portrait](https://raw.githubusercontent.com/photoyam/community/main/screenshot.png)
+![The Photoyam editor in a browser, editing a colorful illustrated portrait](screenshot.png)
 
 ---
 
